@@ -13,6 +13,7 @@ Network.ipynb - это пример моего кода, как я работа�
 <img width="356" alt="Screenshot 2023-06-22 at 19 12 48" src="https://github.com/posyd0moika/Titanic-ML/assets/94396766/e88a5ccc-00f9-4260-a36f-f12bbbb65a4b">
 
 <img width="702" alt="Screenshot 2023-06-22 at 19 13 35" src="https://github.com/posyd0moika/Titanic-ML/assets/94396766/9b1230b4-02d9-40ea-a23a-c6837b4c42bc">
+
 Больше статистики есть на странице соревнований
 
 # Выбор модели
